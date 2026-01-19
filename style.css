@@ -23,8 +23,7 @@ body {
 	top: 100px;
   left: 50%;
   transform: translateX(-50%);
-  width: 200%;
-  max-width: 140px;
+  width: 100%;
   z-index: 10;
 }
 
