@@ -23,7 +23,8 @@ body {
 	top: 100px;
   left: 50%;
   transform: translateX(-50%);
-  width: 300%;
+  width: 100%;
+  max-width: 1200px
   z-index: 10;
 }
 
@@ -97,13 +98,13 @@ body {
   position: static;
 	margin-top: 50px;
   width: 100%;
-  max-width: 160px;
+  max-width: 1200px;
   
 }
 .name {
   position: static;
   width: 100%;
-  max-width: 160px;
+  max-width: 1200px;
   
   }
 
