@@ -13,7 +13,7 @@ body {
 
 /* スクロール量 */
 .scroll-area {
-  height: 400px;
+  height: 100vh;
   position: relative;
 }
 
@@ -53,15 +53,15 @@ body {
 		
 .bg-red {
   top: 1px;
-	left: 450px;
+	left: 45%;
   width: 160px;
   max-width: 320px;
 }
 
 .bg-green {
   top: 400px;
-  left: 430px;
-  width: 40px;
+  left: 43%;
+  width: 100%;
   max-width: 140px;
 }
 
@@ -96,7 +96,7 @@ body {
 
 .bg-long {
   position: static;
-	margin-top: 300px;
+	margin-top: 500px;
   width: 100%;
   max-width: 1200px;
   
