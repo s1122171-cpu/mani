@@ -54,8 +54,8 @@ body {
 .bg-red {
   top: 1px;
 	left: 45%;
-  width: 160px;
-  max-width: 320px;
+  width: 400px;
+  max-width:500px;
 }
 
 .bg-green {
