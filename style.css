@@ -21,7 +21,7 @@ body {
 .logo-page {
   position: absolute;
 	top: 30px;
-  left: 50%;
+  align-items: centere;
   transform: translateX(-50%);
   width: 100%;
   max-width: 980px
