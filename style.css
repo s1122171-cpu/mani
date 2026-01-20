@@ -19,7 +19,7 @@ body {
 
 /* ロゴ（常に中央・スマホ基準） */
 .logo-page {
-  position: fixed;
+  position: absolute;
 	top: 1px;
   left: 50%;
   transform: translateX(-50%);
