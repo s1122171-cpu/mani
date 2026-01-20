@@ -20,7 +20,7 @@ body {
 /* ロゴ（常に中央・スマホ基準） */
 .logo-page {
   position: static;
-	top: 1px;
+	top: 30px;
   left: 50%;
   transform: translateX(-50%);
   width: 50%;
@@ -67,8 +67,8 @@ body {
 
 .blue-stack {
   top: 90px;
-  left: 440px;
-  width: 70px;
+  left: 44%;
+  width: 200px;
   max-width: 160px;
 }
 
