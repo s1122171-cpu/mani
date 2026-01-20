@@ -19,11 +19,11 @@ body {
 
 /* ロゴ（常に中央・スマホ基準） */
 .logo-page {
-  position: static;
+  position: absolute;
 	top: 30px;
   left: 50%;
   transform: translateX(-50%);
-  width: 50%;
+  width: 100%;
   max-width: 980px
   z-index: 10;
 }
@@ -66,7 +66,7 @@ body {
 }
 
 .blue-stack {
-  top: 90px;
+  top: 500px;
   left: 44%;
   width: 200px;
   max-width: 160px;
