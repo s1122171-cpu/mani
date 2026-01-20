@@ -74,15 +74,15 @@ body {
 
 .bg-blue {
 	top: 280px;
-  left: 485px;
-  width: 63px;
-  max-width: 220px;
+  left: 60%;
+  width: 300px;
+  max-width: 5000px;
 }
 
 .orange-pot {
   top: 450px;
-  left: 500px;
-  width: 40px;
+  left: 50%;
+  width: 100px;
   max-width: 160px;
 }
 
