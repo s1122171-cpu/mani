@@ -107,7 +107,12 @@ body {
   max-width: 1200px;
   
   }
-
+.zentai {
+  position: static;
+  width: 100%;
+  max-width: 1200px;
+  
+  }
 .sheet {
   display: flex;
   flex-direction: column;
