@@ -262,9 +262,11 @@ a {
 	margin-top: 80px;
 }
 .insta {
-	margin: 7px;
+	margin: 12px;
 }
-
+.twitter {
+	margin: 12px;
+}
 footer {
 	display: flex；
 	flex-direction: column;
